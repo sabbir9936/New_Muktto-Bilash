@@ -1,0 +1,8 @@
+
+{
+  "name": "মুক্ত বিলাস",
+  "description": "Premium minimalist inventory and order management system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
